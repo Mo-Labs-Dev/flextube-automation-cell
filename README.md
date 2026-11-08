@@ -14,4 +14,4 @@ Develop a simulated manufacturing cell integrating:
 Phase 1: Requirements and system design.
 
 ## Disclaimer
-Educational simulation project. Not affiliated with WAFIOS or KUKA.
+Educational simulation project.
